@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Holden Parmley! I am a student and tutor at Cabrillo Community College.
-- 👀 I’m interested in physics and engineering, but am trying my hand at computer science and loving it so far!
+- 👋 Hi, I’m Holden Parmley!
 - 📫 You can reach me at holdenjparmley@gmail.com
 
 <!---
